@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\Lab1-Geometry2D\Lab1-Geometry2D\obj\Debug\netcoreapp3.1\Lab1-Geometry2D.csprojAssemblyReference.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\Lab1-Geometry2D\Lab1-Geometry2D\obj\Debug\netcoreapp3.1\Lab1-Geometry2D.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\Lab1-Geometry2D\Lab1-Geometry2D\obj\Debug\netcoreapp3.1\Lab1-Geometry2D.AssemblyInfo.cs
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\Lab1-Geometry2D\Lab1-Geometry2D\obj\Debug\netcoreapp3.1\Lab1-Geometry2D.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\Lab1-Geometry2D\Lab1-Geometry2D\bin\Debug\netcoreapp3.1\Lab1-Geometry2D.exe
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\Lab1-Geometry2D\Lab1-Geometry2D\bin\Debug\netcoreapp3.1\Lab1-Geometry2D.deps.json
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\Lab1-Geometry2D\Lab1-Geometry2D\bin\Debug\netcoreapp3.1\Lab1-Geometry2D.runtimeconfig.json
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\Lab1-Geometry2D\Lab1-Geometry2D\bin\Debug\netcoreapp3.1\Lab1-Geometry2D.runtimeconfig.dev.json
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\Lab1-Geometry2D\Lab1-Geometry2D\bin\Debug\netcoreapp3.1\Lab1-Geometry2D.dll
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\Lab1-Geometry2D\Lab1-Geometry2D\bin\Debug\netcoreapp3.1\Lab1-Geometry2D.pdb
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\Lab1-Geometry2D\Lab1-Geometry2D\obj\Debug\netcoreapp3.1\Lab1-Geometry2D.dll
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\Lab1-Geometry2D\Lab1-Geometry2D\obj\Debug\netcoreapp3.1\Lab1-Geometry2D.pdb
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\Lab1-Geometry2D\Lab1-Geometry2D\obj\Debug\netcoreapp3.1\Lab1-Geometry2D.genruntimeconfig.cache
